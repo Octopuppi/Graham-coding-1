@@ -1,0 +1,30 @@
+HTML - Hyper Text Markup Language
+    Used to structure a web page
+CSS - Cascading Style Sheet
+    Used to describe how your html/web page looks
+JS - Javascript
+    Used to describe behaviour for your html/web page
+
+------------------------------------------    
+
+Tags - Tags are a keyword surrounded by angle brackects '<>'. Need an open '<KEYWORD>' and closing tag '</KEYWORD>'
+    Used to show where a element starts and ends
+    <p>
+        Hello welcome yo my youtube channel.
+    </p>
+
+Common sections for a web page
+    HEADER
+        Where you place your references to your javascript and css files
+    BODY
+        Where your main content goes
+    Footer
+        No limit on content but used to footer like info.
+
+Arrtibutes
+    Describe elements - not as powerful/easy as using css when styling
+
+CSS
+    'KEYWORD: VALUE;'
+    'KEYWORD: VALUE;'
+    'KEYWORD: VALUE;'
